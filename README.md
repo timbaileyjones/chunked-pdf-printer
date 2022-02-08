@@ -17,7 +17,7 @@ You, of course, are welcome to do so, and share improvements, as we programmers 
 
 PRs, issues and comments are welcome.
 
-I notified the makers of pdftk of this script via this issue.  
+I notified the makers of pdftk of this script via [this issue](https://github.com/ericmason/pdftk/issues/7).  
 Hopefully they'll add this feature to pdftk directly. Until then, enjoy this script.
 
 # Usage:
